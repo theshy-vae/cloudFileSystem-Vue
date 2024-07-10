@@ -1,0 +1,12 @@
+{
+  "include": ["env.d.ts","src/**/*","src/**/*.vue","src/**/*.ts","src/**/*.tsx"],
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}
